@@ -1,13 +1,16 @@
-Welcome to Lumache's documentation!
+Welcome to SC PaypalShopping's documentation!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+**SC PaypalShopping** is Visual Studio Solution written in *ASPT.NET Core MVC 6* that implement a *Shopping Cart* process and checkout with *Paypal* Payment Gateway integration.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+It use *Microsot SQL Server Express* as database and *EntityFrameworkCore* Code First to manage Data and offers a *simple* and *intuitive* UI to start building a full eCommerce Website.
+
+SC PaypalShopping is an ASP.NET CORE MVC 6 Project that can be used to start building your eCommerce Website.
+The project implement the Shopping Cart process (Shopping - Checkout - Payment).
+The Shopping Cart persist on database and attached to the logged in User.
+Key Features:
+
+Check out the :doc:`gettingstarted` section for further information
 
 .. note::
 
@@ -18,5 +21,11 @@ Contents
 
 .. toctree::
 
-   usage
-   api
+   gettingstarted
+   catalog
+   profile
+   shoppingcart
+   checkout
+   paypalpayment
+   invoice
+   orders
