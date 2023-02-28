@@ -62,10 +62,9 @@ Before building the solution, make sure to have the correct parameters on the ap
 - **InvoiceSettings** : Invoice Settings to use on PDF Invoice  
 
 .. image:: images/4-appsettings.PNG
-:width: 600
+	:width: 600
 		
-.. image:: images/3-config.PNG
-:width: 600
+
    
 Seed Data
 ------------
