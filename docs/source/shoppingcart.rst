@@ -8,5 +8,5 @@ After clicking Buy button, you will redirected to the Shopping Cart page.
 
 You can update each Product quantity and then Click Checkout to proceed to checkout.
 
-.. image:: images/10- cart.PNG 
+.. image:: images/16- cart.PNG 
 	:width: 600
